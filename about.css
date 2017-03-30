@@ -1,0 +1,39 @@
+body {background-color: floralwhite;
+}
+
+#header1 {text-align: center;
+font-size: 25px;
+color: blue;
+border-style: inset;
+border-width: 2px;
+background-color: skyblue
+}
+
+
+#jacob {
+    float: left;
+    height: 50%;
+    width: 50%;
+}
+#info {
+    float: right;
+    width:50%;
+    
+}
+
+#resume {
+    float: left;
+    border-style: groove;
+    border-width: 4px;
+    border-color: skyblue;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    color: white;
+    
+    
+}
+
+#resume a {
+    color:white;
+}

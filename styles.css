@@ -1,29 +1,24 @@
 body {
-    background-color: floralwhite
+    background-color: floralwhite;
         
 }
 
 footer{
     background-color: skyblue;
     border: 5px inherit black;
+    position: absolute;
+    margin-top:900px;
 }
 
 #link {
-    border-style: double;
-    border-bottom-width: 5px;
-    border-color: red;
-    color:green;
+    text-align: center;
+    color:skyblue
 }
 
 .contact {
     font-size:15px
 }
-#description {
-  border border-style: inherit;
-    border-bottom-width: medium;
-    
-    
-}
+
 #header1 {
     font-size: 25px;
     font-family: cursive;
@@ -31,11 +26,78 @@ footer{
     border-style: inset;
     border-width: 2px;
     text-align: center;
+    height: 170px;
+    width: 100%;
+    
+    
     
     
 }
 h2 {
     text-align: center;
+    height:80px;
+    width: 100%;
+    
     
 }
+
+#description {
+ color: skyblue;
+    width: 45%;
+    height:50%;
+    float: left;
+    box-shadow: 1px 1px 5px black;
+    
 }
+
+#sketchbook {
+    width: 45%;
+    height:50%;
+    float: right;
+    box-shadow: 1px 1px 5px black;
+}
+
+#projects {
+    width: 45%;
+    height:50%;
+    float:right;
+    box-shadow: 1px 1px 5px black;
+}
+
+#other {
+    width: 45%;
+    height:50%;
+    float: left;
+    box-shadow: 1px 1px 5px black;
+}
+
+img {
+    width:200px;
+    height: 100p;
+    margin:auto;
+    display: block;
+}
+
+#rorelse {
+    height: 80%;
+    width: 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
