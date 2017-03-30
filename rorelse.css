@@ -1,0 +1,29 @@
+#header1 {
+    text-align: center;
+    border-style: groove;
+    border-color: skyblue;
+    background-color: skyblue;
+    color: blue;
+   border-width: 100%;
+    
+    
+}
+
+#text {
+    float: left;
+    width: 48%;
+    
+}
+
+#rorelse {
+    float: right;
+    height: 10%;
+    width:10%;
+    
+}
+
+Body {
+    background-color: floralwhite;
+    
+}
+}
