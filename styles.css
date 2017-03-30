@@ -1,0 +1,41 @@
+body {
+    background-color: floralwhite
+        
+}
+
+footer{
+    background-color: skyblue;
+    border: 5px inherit black;
+}
+
+#link {
+    border-style: double;
+    border-bottom-width: 5px;
+    border-color: red;
+    color:green;
+}
+
+.contact {
+    font-size:15px
+}
+#description {
+  border border-style: inherit;
+    border-bottom-width: medium;
+    
+    
+}
+#header1 {
+    font-size: 25px;
+    font-family: cursive;
+    background-color: deepskyblue;
+    border-style: inset;
+    border-width: 2px;
+    text-align: center;
+    
+    
+}
+h2 {
+    text-align: center;
+    
+}
+}
