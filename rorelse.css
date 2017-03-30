@@ -22,8 +22,24 @@
     
 }
 
-Body {
+#rorelse img {
+    width:300px;
+    float:right;
+
+}
+body {
     background-color: floralwhite;
     
 }
+
+footer{
+    background-color: skyblue;
+    border: 5px inherit black;
+
+    width:100%;
+    margin-top:800px;
 }
+#finalfour {
+    float:left;
+}
+

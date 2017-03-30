@@ -37,3 +37,11 @@ background-color: skyblue
 #resume a {
     color:white;
 }
+
+footer{
+    background-color: skyblue;
+    border: 5px inherit black;
+    position: absolute;
+    width:100%;
+    margin-top: 700px;
+}
