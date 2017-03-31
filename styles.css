@@ -94,8 +94,8 @@ h2 {
 }
 
 img {
-    width:200px;
-    height: 100p;
+    /*width:200px;*/
+    /*height: 100p;*/
     margin:auto;
     display: block;
     
@@ -107,20 +107,20 @@ img {
 
 
 #description img {
-    width:240px;
+    width:60%;
 }
 
 #sketchbook img {
 
-    width:380px;
+    width:60%;
 }
 
 #other img {
-    width:400px;
+    width:60%;
 }
 
 #projects img {
-    width:205px;}
+    width:25%;}
 
 
 
