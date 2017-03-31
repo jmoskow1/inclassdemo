@@ -1,0 +1,74 @@
+body {
+    background-color:floralwhite;
+    
+}
+
+#header1 {text-align: center;
+font-size: 25px;
+color: blue;
+border-style: inset;
+border-width: 2px;
+background-color: skyblue
+}
+
+#betterpic {
+    height: 200px;
+    float: right;
+    
+    
+}
+
+#info {
+    height: auto;
+    width: 45%;
+    height:50%;
+
+    
+}
+
+
+#rorelse {
+    padding-bottom: 50px;
+    float: left;
+}
+
+img {
+    width:100%;
+}
+
+#left img {
+    width: 75%;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+}
+
+#left {
+    float:left;
+    width: 49%;
+}
+
+#right {
+    float:right;
+    width:49%;
+}
+
+#left a{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+#right p {
+    text-align: center;
+    
+}
+
+footer{
+    background-color: skyblue;
+    border: 5px inherit black;
+
+    width:100%;
+    margin-top:800px;
+}
