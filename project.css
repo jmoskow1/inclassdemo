@@ -37,7 +37,7 @@ img {
 }
 
 #left img {
-    width: 75%;
+    width: 40%;
     margin-left: auto;
     margin-right:auto;
     display: block;
@@ -46,6 +46,7 @@ img {
 #left {
     float:left;
     width: 49%;
+    
 }
 
 #right {
